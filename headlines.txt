@@ -1,0 +1,90 @@
+1. Founder of GitLab battles cancer by founding companies (sytse.com)
+   https://sytse.com/cancer/
+
+2. Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem (twitter.com/bowang87)
+   https://twitter.com/BoWang87/status/2037648937453232504
+
+3. CSS is DOOMed (nielsleenheer.com)
+   https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/
+
+4. Linux is an interpreter (astrid.tech)
+   https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/
+
+5. AI overly affirms users asking for personal advice (stanford.edu)
+   https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+
+6. I decompiled the White House's new app (thereallo.dev)
+   https://thereallo.dev/blog/decompiling-the-white-house-app
+
+7. Detecting file changes on macOS with kqueue (vegardstikbakke.com)
+   https://www.vegardstikbakke.com/kqueue/
+
+8. Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms (androwish.org)
+   https://androwish.org/home/wiki?name=undroidwish
+
+9. I Built an Open-World Engine for the N64 [video] (youtube.com)
+   https://www.youtube.com/watch?v=lXxmIw9axWw
+
+10. Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly (github.com/j-x-z)
+   https://github.com/J-x-Z/cocoa-way
+
+11. Spanish legislation as a Git repo (github.com/enriquelop)
+   https://github.com/EnriqueLop/legalize-es
+
+12. The first 40 months of the AI era (lzon.ca)
+   https://lzon.ca/posts/other/thoughts-ai-era/
+
+13. CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering (theopenreader.org)
+   https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering
+
+14. OpenCiv1 – open-source rewrite of Civ1 (github.com/rajko-horvat)
+   https://github.com/rajko-horvat/OpenCiv1
+
+15. Circuit-level PDP-11/34 emulator (github.com/dbrll)
+   https://github.com/dbrll/ll-34
+
+16. 1929: Inside the Greatest Crash in Wall Street History (nybooks.com)
+   https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/
+
+17. rpg.actor Game Jam (rpg.actor)
+   https://rpg.actor/jam
+
+18. C++26: A User-Friednly assert() macro (sandordargo.com)
+   https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert
+
+19. Go hard on agents, not on your filesystem (stanford.edu)
+   https://jai.scs.stanford.edu/
+
+20. Improved Git Diffs with Delta, Fzf and a Little Shell Scripting (nickjanetakis.com)
+   https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting
+
+21. ICAO issued new power bank restriction on flight (icao.int)
+   https://www.icao.int/news/new-power-bank-restrictions-will-safeguard-international-aviation
+
+22. Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers (ycombinator.com)
+   https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer
+
+23. Nobody Reads Your Setup Docs (hanzilla.co)
+   https://hanzilla.co/blog/mcp-onboarding-ten-agents-one-command/
+
+24. StationeryObject (stationeryobject.com)
+   https://stationeryobject.com/archive/
+
+25. Hacking old hardware by renaming to .zip [video] (youtube.com)
+   https://www.youtube.com/watch?v=P1kfuCkWo24
+
+26. AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip (arstechnica.com)
+   https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/
+
+27. Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer (github.com/dbrll)
+   https://github.com/dbrll/ATTN-11
+
+28. The bee that everyone wants to save (naturalist.bearblog.dev)
+   https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/
+
+29. RSA and Python (xnacly.me)
+   https://xnacly.me/posts/2023/rsa/
+
+30. Make macOS consistently bad unironically (lr0.org)
+   https://lr0.org/blog/p/macos/
+

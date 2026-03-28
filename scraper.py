@@ -19,3 +19,13 @@ for i, headline in enumerate(headlines, start=1):
     link = headline.find("a")["href"] if headline.find("a") else "no link"
     print(f"{i}. {title}")
     print(f"   {link}\n")
+
+# Save results to a text file
+with open("headlines.txt", "w") as f:
+    for i, headline in enumerate(headlines, start=1):
+        title = headline.get_text()
+        link = headline.find("a")["href"] if headline.find("a") else "no link"
+        f.write(f"{i}. {title}\n")
+        f.write(f"   {link}\n\n")
+
+print("\nSaved to headlines.txt!")
